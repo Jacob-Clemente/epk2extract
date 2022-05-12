@@ -1,5 +1,5 @@
 project: jacob-clemente/epk2extract
-target: lzhsenc
+target: lzhs_scanner
 
 cmds:
-  - cmd: /lzhsenc @@
+  - cmd: /lzhs_scanner @@
