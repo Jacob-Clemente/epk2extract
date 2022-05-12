@@ -1,0 +1,5 @@
+project: jacob-clemente/epk2extract
+target: idb_extract
+
+cmds:
+  - cmd: /idb_extract @@
